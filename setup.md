@@ -1,5 +1,5 @@
 ---
-title: Setup for TBC Workshop Title
+title: Setup for Introduction to Research Computing
 ---
 
 

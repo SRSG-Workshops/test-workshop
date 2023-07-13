@@ -9,7 +9,7 @@ delivery: "static"
 # Overall title for the Workshop.
 # This variable is used to (optionally) add a title in the "jumbotron"
 # (the grey box at the top of the page), and to the extra pages.
-title: "TBC Workshop Title"
+title: "Introduction to Research Computing"
 form_title: "TBC+Workshop+Title" # This is required for the surveys
 
 # Email address, no mailto:
